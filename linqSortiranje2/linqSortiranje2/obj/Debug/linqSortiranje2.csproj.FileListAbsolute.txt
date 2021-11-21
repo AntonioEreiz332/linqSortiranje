@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\linqSortiranje2\linqSortiranje2\bin\Debug\linqSortiranje2.exe.config
+C:\Users\toni-PC\source\repos\linqSortiranje2\linqSortiranje2\bin\Debug\linqSortiranje2.exe
+C:\Users\toni-PC\source\repos\linqSortiranje2\linqSortiranje2\bin\Debug\linqSortiranje2.pdb
+C:\Users\toni-PC\source\repos\linqSortiranje2\linqSortiranje2\obj\Debug\linqSortiranje2.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\linqSortiranje2\linqSortiranje2\obj\Debug\linqSortiranje2.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\linqSortiranje2\linqSortiranje2\obj\Debug\linqSortiranje2.exe
+C:\Users\toni-PC\source\repos\linqSortiranje2\linqSortiranje2\obj\Debug\linqSortiranje2.pdb
